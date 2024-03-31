@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Timbulwidodo GitHub stats](https://github-readme-stats.vercel.app/api?username=timbulwidodostp)](https://github.com/timbulwidodostp/github-readme-stats)
+[![timbulwidodostp GitHub stats](https://github-readme-stats.vercel.app/api?username=timbulwidodostp)](https://github.com/timbulwidodostp/github-readme-stats)
 <!--
 **timbulwidodostp/timbulwidodostp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
