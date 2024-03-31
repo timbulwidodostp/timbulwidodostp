@@ -1,4 +1,4 @@
-### timbul Widodo, S.TP Owner  👋
+### Timbul Widodo, S.TP Owner  👋
 ### Olah Data Semarang 👋
 ### WA : +6285227746673 (085227746673) 👋
 ### Receive Statistical Analysis Data Processing Services Using 👋
