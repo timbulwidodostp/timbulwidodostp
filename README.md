@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![timbulwidodostp GitHub stats](https://github-readme-stats.vercel.app/api?username=timbulwidodostp&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timbulwidodostp&hide_progress=true)
 <!--![timbulwidodostp GitHub stats](https://github-readme-stats.vercel.app/api?username=timbulwidodostp&hide=contribs,prs)
 **timbulwidodostp/timbulwidodostp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
