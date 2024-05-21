@@ -15,11 +15,6 @@
 <a href="https://www.youtube.com/user/amalsedekah/"><img align="left" src="https://raw.githubusercontent.com/timbulwidodostp/image/main/download.png" alt="Timbul Widodo STP | Youtube" width="180px"/></a>
 <a href="https://rutube.ru/channel/30597701/"><img align="left" src="https://raw.githubusercontent.com/timbulwidodostp/image/main/download3.png" alt="Timbul Widodo STP | Rutube" width="100px"/></a>
 
-![timbulwidodostp GitHub stats](https://github-readme-stats.vercel.app/api?username=timbulwidodostp&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timbulwidodostp&hide_progress=true)
-<!--![timbulwidodostp GitHub stats](https://github-readme-stats.vercel.app/api?username=timbulwidodostp&hide=contribs,prs)
-**timbulwidodostp/timbulwidodostp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -37,3 +32,8 @@ Here are some ideas to get you started:
 ### Receive Statistical Analysis Data Processing Services Using 👋
 ### SPSS, AMOS, LISREL, Frontier 4.1, EVIEWS, SMARTPLS, STATA 👋
 ### DEAP 2.1, ETC 👋
+
+![timbulwidodostp GitHub stats](https://github-readme-stats.vercel.app/api?username=timbulwidodostp&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timbulwidodostp&hide_progress=true)
+<!--![timbulwidodostp GitHub stats](https://github-readme-stats.vercel.app/api?username=timbulwidodostp&hide=contribs,prs)
+**timbulwidodostp/timbulwidodostp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
