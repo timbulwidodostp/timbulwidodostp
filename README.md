@@ -4,6 +4,11 @@
 ### Receive Statistical Analysis Data Processing Services Using 👋
 ### SPSS, AMOS, LISREL, Frontier 4.1, EVIEWS, SMARTPLS, STATA 👋
 ### DEAP 2.1, ETC 👋
+
+### STATA 18 MP Full Version ###
+
+https://github.com/timbulwidodostp/stata18mp
+
 ![](https://komarev.com/ghpvc/?username=timbulwidodostp&style=for-the-badge&abbreviated=true)
 ### Connect with me:
 <a href="https://www.linkedin.com/in/timbulwidodostp/"><img align="left" src="https://raw.githubusercontent.com/timbulwidodostp/image/main/download%20%281%29.png" alt="Timbul Widodo STP | LinkedIn" width="120px"/></a>
