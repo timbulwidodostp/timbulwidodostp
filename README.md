@@ -7,7 +7,7 @@
 
 ![](https://komarev.com/ghpvc/?username=timbulwidodostp&style=for-the-badge&abbreviated=true)
 
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
 
 ![timbulwidodostp GitHub stats](https://github-readme-stats.vercel.app/api?username=timbulwidodostp&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timbulwidodostp&hide_progress=true)
