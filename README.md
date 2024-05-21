@@ -1,3 +1,10 @@
+### Connect with me:
+<br>
+<a href="https://www.linkedin.com/in/timbulwidodostp/"><img align="left" src="https://raw.githubusercontent.com/timbulwidodostp/image/main/download%20%281%29.png" alt="Timbul Widodo STP | LinkedIn" width="120px"/></a>
+<a href="https://www.youtube.com/user/amalsedekah/"><img align="left" src="https://raw.githubusercontent.com/timbulwidodostp/image/main/download.png" alt="Timbul Widodo STP | Youtube" width="180px"/></a>
+<a href="https://rutube.ru/channel/30597701/"><img align="left" src="https://raw.githubusercontent.com/timbulwidodostp/image/main/download3.png" alt="Timbul Widodo STP | Rutube" width="100px"/></a>
+</br>
+
 ### Timbul Widodo, S.TP Owner  👋
 ### Olah Data Semarang 👋
 ### WA : +6285227746673 (085227746673) 👋
@@ -9,24 +16,6 @@
 
 ![](https://komarev.com/ghpvc/?username=timbulwidodostp&style=for-the-badge&abbreviated=true)
 
-### Connect with me:
-
-<a href="https://www.linkedin.com/in/timbulwidodostp/"><img align="left" src="https://raw.githubusercontent.com/timbulwidodostp/image/main/download%20%281%29.png" alt="Timbul Widodo STP | LinkedIn" width="120px"/></a>
-<a href="https://www.youtube.com/user/amalsedekah/"><img align="left" src="https://raw.githubusercontent.com/timbulwidodostp/image/main/download.png" alt="Timbul Widodo STP | Youtube" width="180px"/></a>
-<a href="https://rutube.ru/channel/30597701/"><img align="left" src="https://raw.githubusercontent.com/timbulwidodostp/image/main/download3.png" alt="Timbul Widodo STP | Rutube" width="100px"/></a>
-</br>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### Timbul Widodo, S.TP Owner  👋
 ### Olah Data Semarang 👋
 ### WA : +6285227746673 (085227746673) 👋
