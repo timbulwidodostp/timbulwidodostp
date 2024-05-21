@@ -1,28 +1,14 @@
+### Timbul Widodo, S.TP Owner  👋
+### Olah Data Semarang 👋
+### WA : +6285227746673 (085227746673) 👋
+### Receive Statistical Analysis Data Processing Services Using 👋
+### SPSS, AMOS, LISREL, Frontier 4.1, EVIEWS, SMARTPLS, STATA 👋
+### DEAP 2.1, ETC 👋
+![](https://komarev.com/ghpvc/?username=timbulwidodostp&style=for-the-badge&abbreviated=true)
 ### Connect with me:
-<br>
 <a href="https://www.linkedin.com/in/timbulwidodostp/"><img align="left" src="https://raw.githubusercontent.com/timbulwidodostp/image/main/download%20%281%29.png" alt="Timbul Widodo STP | LinkedIn" width="120px"/></a>
 <a href="https://www.youtube.com/user/amalsedekah/"><img align="left" src="https://raw.githubusercontent.com/timbulwidodostp/image/main/download.png" alt="Timbul Widodo STP | Youtube" width="180px"/></a>
 <a href="https://rutube.ru/channel/30597701/"><img align="left" src="https://raw.githubusercontent.com/timbulwidodostp/image/main/download3.png" alt="Timbul Widodo STP | Rutube" width="100px"/></a>
-</br>
-
-### Timbul Widodo, S.TP Owner  👋
-### Olah Data Semarang 👋
-### WA : +6285227746673 (085227746673) 👋
-### Receive Statistical Analysis Data Processing Services Using 👋
-### SPSS, AMOS, LISREL, Frontier 4.1, EVIEWS, SMARTPLS, STATA 👋
-### DEAP 2.1, ETC 👋
-
-### Counter Visit
-
-![](https://komarev.com/ghpvc/?username=timbulwidodostp&style=for-the-badge&abbreviated=true)
-
-### Timbul Widodo, S.TP Owner  👋
-### Olah Data Semarang 👋
-### WA : +6285227746673 (085227746673) 👋
-### Receive Statistical Analysis Data Processing Services Using 👋
-### SPSS, AMOS, LISREL, Frontier 4.1, EVIEWS, SMARTPLS, STATA 👋
-### DEAP 2.1, ETC 👋
-
 ![timbulwidodostp GitHub stats](https://github-readme-stats.vercel.app/api?username=timbulwidodostp&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timbulwidodostp&hide_progress=true)
 <!--![timbulwidodostp GitHub stats](https://github-readme-stats.vercel.app/api?username=timbulwidodostp&hide=contribs,prs)
