@@ -5,7 +5,7 @@
 ### SPSS, AMOS, LISREL, Frontier 4.1, EVIEWS, SMARTPLS, STATA 👋
 ### DEAP 2.1, ETC 👋
 
-### STATA 18 MP Full Version ###
+### STATA 19 MP Full Version ###
 
 https://github.com/timbulwidodostp/stata19mp
 
