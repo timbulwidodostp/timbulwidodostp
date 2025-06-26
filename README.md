@@ -11,7 +11,7 @@ https://github.com/timbulwidodostp/stata19mp
 
 ![](https://komarev.com/ghpvc/?username=timbulwidodostp&style=for-the-badge&abbreviated=true)
 ### Connect with me:
-<a href="https://www.linkedin.com/in/timbulwidodostp/"><img align="left" src="https://raw.githubusercontent.com/timbulwidodostp/image/main/download%20%281%29.png" alt="Timbul Widodo STP | LinkedIn" width="120px"/></a>
+<a href="https://id.linkedin.com/in/timbul-widodo-00529441/"><img align="left" src="https://raw.githubusercontent.com/timbulwidodostp/image/main/download%20%281%29.png" alt="Timbul Widodo STP | LinkedIn" width="120px"/></a>
 <a href="https://www.youtube.com/user/amalsedekah/"><img align="left" src="https://raw.githubusercontent.com/timbulwidodostp/image/main/download.png" alt="Timbul Widodo STP | Youtube" width="180px"/></a>
 ![timbulwidodostp GitHub stats](https://github-readme-stats.vercel.app/api?username=timbulwidodostp&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timbulwidodostp&hide_progress=true)
