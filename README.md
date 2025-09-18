@@ -13,4 +13,3 @@ https://github.com/timbulwidodostp/stata19mp
 ### Connect with me:
 <a href="https://id.linkedin.com/in/timbul-widodo-00529441/"><img align="left" src="https://raw.githubusercontent.com/timbulwidodostp/image/main/download%20%281%29.png" alt="Timbul Widodo STP | LinkedIn" width="120px"/></a>
 <a href="https://www.youtube.com/user/amalsedekah/"><img align="left" src="https://raw.githubusercontent.com/timbulwidodostp/image/main/download.png" alt="Timbul Widodo STP | Youtube" width="180px"/></a>
-![Timbul Widodo GitHub stats](https://github-readme-stats.vercel.app/api?username=timbulwidodostp&show_icons=true&theme=radical)
