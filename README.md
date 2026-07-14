@@ -5,10 +5,6 @@
 ### SPSS, AMOS, LISREL, Frontier 4.1, EVIEWS, SMARTPLS, STATA 👋
 ### DEAP 2.1, R, ETC 👋
 
-### Class ID And Enrollment key Turnitin Student No Repository Actived 5 Apr 2029 ###
-
-https://ln.run/2029
-
 ### STATA 19 MP Full Version ###
 
 https://github.com/timbulwidodostp/stata19mp
