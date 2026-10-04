@@ -11,7 +11,7 @@ https://github.com/timbulwidodostp/stata19mp
 
 ![Github Views](https://views.igorkowalczyk.dev/api/badge/timbulwidodostp)
 
-[![Statistik GitHub Anda](https://vercel.app)](https://github.com/timbulwidodostp)
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/:timbulwidodostp">
 
 ### Connect with me:
 <a href="https://id.linkedin.com/in/timbul-widodo-00529441/"><img align="left" src="https://raw.githubusercontent.com/timbulwidodostp/image/main/download%20%281%29.png" alt="Timbul Widodo STP | LinkedIn" width="120px"/></a>
