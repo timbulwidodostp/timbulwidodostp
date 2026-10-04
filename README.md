@@ -11,7 +11,6 @@ https://github.com/timbulwidodostp/stata19mp
 
 ![Github Views](https://views.igorkowalczyk.dev/api/badge/timbulwidodostp)
 
-![](https://komarev.com/ghpvc/?timbulwidodostp&color=green)
 ### Connect with me:
 <a href="https://id.linkedin.com/in/timbul-widodo-00529441/"><img align="left" src="https://raw.githubusercontent.com/timbulwidodostp/image/main/download%20%281%29.png" alt="Timbul Widodo STP | LinkedIn" width="120px"/></a>
 <a href="https://www.youtube.com/user/amalsedekah/"><img align="left" src="https://raw.githubusercontent.com/timbulwidodostp/image/main/download.png" alt="Timbul Widodo STP | Youtube" width="180px"/></a>
