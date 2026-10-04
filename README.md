@@ -9,7 +9,7 @@
 
 https://github.com/timbulwidodostp/stata19mp
 
-![Visitor Count](https://visitorbadge.io)
+![Visitor Count](https://visitorbadge.io/ghpvc/?timbulwidodostp&color=green)
 
 ![](https://komarev.com/ghpvc/?timbulwidodostp&color=green)
 ### Connect with me:
